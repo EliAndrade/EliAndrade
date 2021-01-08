@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **EliAndrade/EliAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-* Hi there, my name is Eli.
+### Hi there, my name is Eli. 👋
 
 📫  You can reach me by:
 - [x] Linkedin: https://www.linkedin.com/in/eli-emanuel/
