@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 📫  You can reach me by:
 - [x] Linkedin: https://www.linkedin.com/in/eli-emanuel/
+
+[![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=EliAndrade&layout=compact&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliAndrade&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
