@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+* Hi there, my name is Eli.
+
+📫  You can reach me by:
+- [x] Linkedin: https://www.linkedin.com/in/eli-emanuel/
