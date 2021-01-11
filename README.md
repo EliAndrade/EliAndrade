@@ -1,13 +1,13 @@
 ### Hi there, my name is Eli. 👋
 
-### You can reach me by 📫:
+### You can reach me by:
 
 [<img align="left" title="Linkedin" width="32px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">](https://www.linkedin.com/in/eli-emanuel/)
 <br>
 <br>
 
 
-### Languages 📜:
+### Languages:
 
 [<img align="left" width="26px" title="Java" src="https://i7.pngguru.com/preview/709/905/282/openjdk-java-virtual-machine-android-oracle-corporation-android.jpg">](https://openjdk.java.net/)
 [<img align="left" width="32px" title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg">](https://www.python.org/)
