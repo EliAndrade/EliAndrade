@@ -1,4 +1,4 @@
-### Hi there, my name is Eli. 👋
+### Hi there, my name is Eli.
 
 ### You can reach me by:
 
